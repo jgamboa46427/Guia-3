@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Ascensor
+comment0.text=\r\n\ Ascensor\ \r\n\ \r\n\ JOHN\ GAMBOA\ ,\ HERNAN\ SEGURA\ \r\n\ 1.0\r\n
+comment1.params=np\ ns\ pa
+comment1.target=Ascensor(int,\ int,\ int)
+comment10.params=bajarPiso
+comment10.target=int\ bajando(int)
+comment2.params=
+comment2.target=int\ getnPisos()
+comment3.params=
+comment3.target=int\ getnSotanos()
+comment4.params=
+comment4.target=int\ getpActual()
+comment5.params=nuevonPisos
+comment5.target=void\ setnPisos(int)
+comment6.params=nuevonSotanos
+comment6.target=void\ setnSotanos(int)
+comment7.params=nuevopActual
+comment7.target=void\ setpActual(int)
+comment8.params=cap
+comment8.target=int\ capacidad(int)
+comment9.params=subirPiso
+comment9.target=int\ subiendo(int)
+numComments=11

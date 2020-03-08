@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pendulo
+comment0.text=\r\n\ Pendulo.\r\n\ \r\n\ JOHN\ GAMBOA,\ HERNAN\ SEGURA\r\n\ 1.0\r\n
+comment1.params=l\ a
+comment1.target=Pendulo(double,\ double)
+comment2.params=
+comment2.target=double\ getSalario()
+comment3.params=
+comment3.target=double\ aceleracion()
+comment4.params=nuevoLongitud
+comment4.target=void\ setLongitud(double)
+comment5.params=nuevoAceleracion
+comment5.target=void\ setaceleracion(double)
+comment6.params=
+comment6.target=double\ periodoOscilacion()
+numComments=7
